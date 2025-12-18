@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+
+
+<body bgcolor="white"> 	
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<table border="1" cellspacing="8" height="500" width="1300" align="center">
+
+<tr>
+<tr align="center">
+<td colspan="8"><b>VIEW TV SCHEDULE BY NETWORK FOR 2011-2012</b></td>
+<tr align="center">
+  	<td> ABC</td>
+	<td> 8:00 pm </td>
+	<td> 8:30 pm </td>
+	<td> 9:00 pm</td>
+	<td> 9:30 pm </td>
+	<td> 10:00 pm</td>
+	<td colspan="3"> 10:30 pm</td>
+</tr>
+
+<tr align="center">
+
+        <td> Monday </td>
+	<td colspan="4">Dancing With The Stars 13<br> 9-19-2011(SP)</td>
+	<td colspan="3"> Castle <br> 9-19-2011(SP)</td>
+</tr>
+	
+<tr align="center">
+  	
+                <td rowspan="3">Tuesday</td>
+                <td colspan="2"></td>
+	<td colspan="2"> Dancing With The Stars 13<br> 9-20-2011(SP)</td>
+	<td colspan="3"> Body Of Proof <br> 9-20-2011(SP)</td>
+	
+
+	
+</tr>
+
+<tr align="center">
+	<td colspan="2"> Last Man Standing<br> 10-11-2011(SP)</td>
+	<td colspan="4"> </td>
+	
+
+</tr>
+
+<tr align="center">
+	<td> Last Man Standing<br> 10-18-2011(SP)</td>
+	<td >Man Up<br> 10-18-2011(SP) </td>
+	<td colspan="4"> </td>
+	
+
+</tr>
+
+
+<tr align="center">
+  	<td rowspan="2"> Wednesday </td>
+	<td colspan="2">Middle, The<br> 9-21-2011(SP)</td>
+	<td colspan="2"> Modern Family<br> 9-21-2011(SP)</td>
+	<td colspan="2">Revenge<br> 9-21-2011(P)</td>
+	
+	
+     
+</tr>
+
+ <tr align="center">
+  	
+	<td>Middle, The<br> 9-28-2011(TPP)</td>
+	<td> Suborgatory<br> 9-21-2011(P)</td>
+	<td> Modern Family<br> 9-21-2011(TPP)</td>
+	<td>Happy Endings<br> 9-21-2011(SP)</td>
+	<td colspan="4"></td>
+		
+     
+</tr>  
+	
+     
+	
+
+</table>
+
+
+
+
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>

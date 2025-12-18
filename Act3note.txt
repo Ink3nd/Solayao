@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>HTML LISTS</title>
+</head>
+<body>
+<h2>3 BASIC PARTS OF A COMPUTER</h2>
+<ol>
+	<li>System Unit
+	<ol type ="a">
+		<li>Main CircuitBoard</li>
+		<li>Power Suply</li>
+		<li>Memory</li>
+		<li>Processor</li>
+		<li>Network Interface Card</li>
+			<ul type="circle">
+				<li>LAN Card</li>
+				<li>Modem</li>
+			</ul>
+	</ol>
+	</li>
+	<li>Monitor
+	<ol type ="i">
+		<li>Colored Monitor</li>
+			<ul type ="circle">
+				<li>LED Monitor</li>
+				<li>LCD Monitor</li>		
+			</ul>
+		<li>Grayscale Monitor</li>
+		<li>Monochrome Monitor</li>
+
+	</ol>
+	</li>
+	<li>Peripherals
+	<ul type ="square">
+		<li>Keyboard</li>
+		<li>Mouse</li>
+
+
+	</ul>
+	</li>
+</ol>
+<h2>Definition of Terms</h2>
+<dl>
+	<dt>Tag</dt>
+		<dd>Used to tag or "mark-up" piece of text.</dd>
+	<dt>Element</dt>
+		<dd>A complete tag,having an opening tag and closing.</dd>
+	<dt>Attribute</dt>
+		<dd>Used to modify the value of the html element.</dd>
+	<dt>Html Text</dt>
+		<dd>Is the backbone of any web pages.</dd>
+	<dt>Line Break</dt>
+		<dd>line breaks are used in html text elements to move to the next line.</dd>
+</dl>
+</body>
+</html>

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head align= "center">
+	<title> MIDTERM PRACTICAL EXAMINATION IN WEB SYSTEMS </title>
+</head>
+<body>
+<h1 style="text-align:center">MIDTERM PRACTICAL EXAMINATION <br>IN</br> WEB SYSTEMS AND TECHNOLOGIES 1</h1>
+<h2><a href="https://www.evsu.edu.ph/" target="_blank">Course Offering in Eastern Visayas State University</a></h2>
+<ol>
+<a name="COE"></a>
+	<li>College of Engineering</li>
+		<ul style="list-style-type:disc;">
+		<li>Bachelor of Science in Civil Engineering</li>
+		<li>Bachelor of Science in Electrical Engineering</li>
+		<li>Bachelor of Science in Information Technology</li>
+		</ul>
+<a name="COBE"></a>		
+	<li>College of Business and Entrepreneurship</li>
+		<ul style="list-style-type:circle;">
+		<li>Bachelor of Science in Bussines Adminsintration</li>
+		<li>Bachelor of Science in Accountancy</li>
+		<li>Bachelor of Science in Office Administraction</li>
+		</ul>
+<a name="COED"></a>		
+	<li>College of Education</li>
+		<ul style="list-style-type:circle;">
+		<li>Bachelor of Science in Secondary Education
+			<ol type="i">
+			<li>Major in Physical Education</li>
+			<li>Major in English Education</li>
+			</ol>
+		</li>
+		<li>Bachelor of Science in Elementary Education</li>
+		</ul>		
+</ol>
+
+<p><b>Gallery:</b></p>
+<a href ="D:\Wednesday\Solayao\Image\images (12).jpeg" alt="IMAGE 1" height="500" width="700">
+<img src="D:\Wednesday\Solayao\Image\images (12).jpeg" alt="IMAGE 1" height="500" width="700">
+</a>
+
+<a href ="D:\Wednesday\Solayao\Image\images (12).jpeg" alt="IMAGE 1" height="500" width="700"> 
+<img src="D:\Wednesday\Solayao\Image\images (12).jpeg" alt="IMAGE 2" height="500" width="700">
+</a>
+
+
+
+<p><b>Go back to:</b></p>
+<p><b>(Create Interneal Link)</b></p>
+<pre>
+	<a href="#COE">College of Engineering</a>
+	<a href="#COBE">Business and Entrepreneurship</a>
+	<a href="#COED">College of Education</a>
+</pre>
+
+
+</body>
+
+</html>
