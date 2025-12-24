@@ -26,8 +26,8 @@
 <div class="dropdown-menu">
 <ul>
 
-<li><a href="Act1.html">Act1</a></li>
-<li><a href="Act2.html">Act2</a></li>
+<li><a href="act1.html">Act1</a></li>
+<li><a href="act2.html">Act2</a></li>
 <li><a href="Act3.html">Act3</a></li>
 <li><a href="Act4.html">Act4</a></li>
 <li><a href="Act5.html">Act5</a></li>
@@ -74,6 +74,7 @@
 </body>
 
 </html>
+
 
 
 
